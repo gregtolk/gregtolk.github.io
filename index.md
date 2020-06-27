@@ -7,3 +7,7 @@ Gregor is my favourite character in any movie. He is famous for his , how about 
 * muscular
 * intelligent
 * unusually skilled
+
+Of course you know what he once said:
+> Oops, that's not how it was meant to be.
+> maybe we should try again?
